@@ -60,7 +60,7 @@ a {
 .content{
   display: flex;
   flex-direction: column;
-  
+  flex: 1;
   align-items: center;
 }
 
@@ -68,7 +68,7 @@ a {
   background-color: #eeeeee;
   display: flex;
   justify-content: space-between;
-  margin-top: auto;
+ 
   padding: 16px
   
 }
